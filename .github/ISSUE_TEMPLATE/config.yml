@@ -6,4 +6,6 @@ contact_links:
   - name: 機能仕様書作成テンプレート
     url: https://github.com/zoudejun0319/firstTestForGithub/issues/new?template=機能仕様書作成テンプレート.md
     about: Please ask and answer questions here.
-
+  - name: 詳細仕様書作成テンプレート
+    url: https://github.com/zoudejun0319/firstTestForGithub/issues/new?template=詳細仕様書作成テンプレート.md
+    about: Please ask and answer questions here.
